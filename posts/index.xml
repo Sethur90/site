@@ -6,21 +6,13 @@
     <description>Recent content in Posts on Willkommen auf meiner Website</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sethur.de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://sethur.de/posts/test/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://sethur.de/posts/test/</guid>
-      <description>&lt;h1 id=&#34;hallo&#34;&gt;Hallo&lt;/h1&gt;&#xA;&lt;p&gt;Das ist nur ein kleiner Test!&lt;/p&gt;&#xA;&lt;p&gt;Ich habe &lt;em&gt;&lt;strong&gt;keine&lt;/strong&gt;&lt;/em&gt; Ahnung, wie die Scheiße hier funktioniert!&lt;/p&gt;&#xA;&lt;p&gt;Wie mache ich Überschriften oder sonstige Formatierungen&amp;hellip;.?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zweiter Test</title>
-      <link>https://sethur.de/posts/zweiter-test/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://sethur.de/posts/zweiter-test/</guid>
-      <description>&lt;h1 id=&#34;webhook-testen&#34;&gt;Webhook testen&lt;/h1&gt;&#xA;&lt;p&gt;Ich wollte eigentlich nur den Webhook testen.&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;https://sethur.de/images/posts/attachments/wim-04.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <title></title>
+      <link>https://sethur.de/posts/hotend-wartung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sethur.de/posts/hotend-wartung/</guid>
+      <description>&lt;h1 id=&#34;einfache-lösungen-hotend-wartung-für-saubere-und-präzise-drucke&#34;&gt;Einfache Lösungen: Hotend-Wartung für saubere und präzise Drucke&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;Vor kurzem bemerkte ich, dass mein Tevo Tornado, insbesondere das Hotend, ziemlich stark verschmutzt war. Es trat geschmolzenes Filament an ungewollten Stellen aus, begleitet von einem unangenehmen Geruch und unsauberen Druckergebnissen – deutliche Anzeichen für erforderliche Maßnahmen. Daher entschied ich mich dazu, das Hotend einer gründlichen Reinigung zu unterziehen.&#xD;&#xA;&#xD;&#xA;Nachdem ich den BLTouch und die Lüftereinheit abmontiert hatte, widmete ich mich der eingehenden Begutachtung des entstandenen Schadens. Eine beachtliche Menge geschmolzenen Filaments war ausgetreten, und die Kabel zum Hotend waren umschlossen. In Anbetracht dieser Situation war äußerste Vorsicht geboten, um die Komponenten schonend zu behandeln.&#xD;&#xA;&#xD;&#xA;Für die gründliche Reinigung erhitzte ich das Hotend auf 240 Grad, um das Filament wieder in den flüssigen Zustand zu versetzen. Mit äußerster Behutsamkeit entfernte ich die gröbsten Verschmutzungen. Nachdem der Kühlkörper vom Heatbreak und Hotend getrennt war, erfolgte eine sorgfältige Reinigung des Kühlkörpers. Danach wurde der gereinigte Kühlkörper wieder sicher an der X-Achse befestigt.&#xD;&#xA;&#xD;&#xA;Die Düse und das Heatbreak wurden akribisch wiederverbaut und ordnungsgemäß gegeneinander gekontert. Um eine effiziente Wärmeableitung zu gewährleisten, trug ich Wärmeleitpaste auf das Heatbreak auf. Die gesamte Einheit wurde sorgfältig wieder zusammengefügt. Da die originale Hitzeisolierung verbrannt war, ersetzte ich sie durch einen Silikon-Hitzeschutz. Anschließend erfolgte die präzise Montage der Lüftereinheit und des BLTouch.&#xD;&#xA;&#xD;&#xA;Abschließend brachte ich das Druckbett in einen neuen, perfekten Levelzustand und führte eine akkurate Neukalibrierung des BLTouch durch. Alle diese Schritte gewährleisten nun, dass mein 3D-Drucker optimal und mit höchster Präzision arbeitet.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
